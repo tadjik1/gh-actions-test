@@ -1,0 +1,23 @@
+{
+  "name": "gh-actions-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadjik1/gh-actions-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadjik1/gh-actions-test/issues"
+  },
+  "homepage": "https://github.com/tadjik1/gh-actions-test#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
